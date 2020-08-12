@@ -20,6 +20,6 @@
 [linkedin]: https://linkedin.com/in/sandxru
 [facebook]: https://www.facebook.com/sandxru
 
----
+<br/>
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sandxru&show_icons=true&hide_border=true" />
