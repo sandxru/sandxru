@@ -2,6 +2,8 @@
 
 ### 𝙰 𝚌𝚊𝚏𝚏𝚎𝚒𝚗𝚎 𝚘𝚟𝚎𝚛𝚍𝚘𝚜𝚎𝚍 𝚂𝙺𝙴𝙿𝚃𝙸𝙲, 𝚠𝚑𝚘 𝚠𝚛𝚒𝚝𝚎 𝚌𝚘𝚍𝚎𝚜 & 𝚝𝚊𝚔𝚎 𝚙𝚑𝚘𝚝𝚘𝚜 𝚠𝚑𝚒𝚕𝚎 𝚏𝚛𝚊𝚐𝚐𝚒𝚗𝚐 𝚗𝚘𝚘𝚋𝚜.
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
